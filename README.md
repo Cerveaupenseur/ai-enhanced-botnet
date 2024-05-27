@@ -85,5 +85,3 @@ This project is intended for educational purposes only. The use of botnets and R
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-This markdown structure includes headers, code blocks, and lists to organize information clearly and make it more visually appealing.
